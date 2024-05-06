@@ -40,22 +40,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdrkfka)](https://github.com/thdrkfka/github-readme-stats)
 </div><br>
 
-<h2 align="center">💻 DEV's log 💻</h2>
-<div align="center">
-<div style="display:flex; flex-direction:column;">
-<p align='center'>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=thdrkfka)](https://velog.io/@thdrkfka/) 
-</p>
-<p align='center'>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rangyi&theme=default)](https://rangyi.tistory.com/)
-</p>
-
-<!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rangyi&postId=33&theme=default)](https://rangyi.tistory.com/) -->
-</div>
-</div><br>
-
-
 <h2 align="center">📞 Contact 📞</h2>
 <div align="center">
     <a href="mailto:ssongjiaran@gmail.com">
