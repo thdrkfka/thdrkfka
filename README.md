@@ -49,8 +49,14 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+
+
+
     
 ## 🔨 Once I've used 🔨
+
+
+
 <div style="display:flex; flex-direction:row;">
 <!--     <img src="https://img.shields.io/badge/텍스트-색상코드?style=for-the-badg&logo=로고이름&logoColor=로고색"/> -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -67,7 +73,6 @@
 <!--     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">  -->
 <!--     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> -->
     <br>
-    
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
